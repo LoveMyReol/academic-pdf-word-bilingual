@@ -1,0 +1,6 @@
+interface:
+  display_name: "Academic PDF to Word QA"
+  short_description: "Academic OCR, Word math, bibliography and translation QA"
+  default_prompt: "Use $academic-pdf-word-bilingual to convert this academic PDF into editable Word and apply the formula, bibliography, and Chinese translation quality gates."
+policy:
+  allow_implicit_invocation: true
